@@ -1,70 +1,80 @@
-# Getting Started with Create React App
+# Frontend Mentor Challenges Collection
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my Frontend Mentor Challenges repository! 🎉 This project contains solutions to various challenges provided by Frontend Mentor. Each challenge is designed to help improve my front-end development skills.
 
-## Available Scripts
+## Table of Contents
 
-In the project directory, you can run:
+- [About](#about)
+- [Challenges](#challenges)
+- [Technologies Used](#technologies-used)
+- [Project Setup](#project-setup)
+- [Usage](#usage)
+- [Challenges Implemented](#challenges-implemented)
 
-### `npm start`
+## About
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This repository is a collection of different front-end coding challenges that I completed from Frontend Mentor. The challenges range in complexity and focus on HTML, CSS, JavaScript, and various front-end libraries like React and Tailwind CSS.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The aim of these challenges is to:
 
-### `npm test`
+- Improve my coding and problem-solving skills.
+- Practice responsive design and cross-browser compatibility.
+- Experiment with modern front-end technologies.
+- Get hands-on experience with real-world UI components.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Challenges
 
-### `npm run build`
+Each challenge has its own directory in the `src/challenges/` folder, containing:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- HTML/JSX structure.
+- CSS/Tailwind for styling.
+- JavaScript/React for interactivity and dynamic content.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Technologies Used
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **React**: Main framework for building user interfaces.
+- **Tailwind CSS**: Utility-first CSS framework for fast styling.
+- **JavaScript (ES6+)**: For logic and interactivity.
+- **HTML5/CSS3**: Base technologies for structuring and styling.
+- **GitHub**: Version control and project hosting.
+- **Frontend Mentor**: The platform providing the challenges.
 
-### `npm run eject`
+## Project Setup
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+To set up this project locally:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Clone this repository:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+   ```bash
+   git clone https://github.com/ysmn-sl/frontend-mentor-challenges.git
+   cd frontend-mentor-challenges
+   ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+2. Install dependencies:
 
-## Learn More
+   ```bash
+      npm install
+   ```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+3. Run the project locally:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+   ```bash
+   npm start
+   ```
 
-### Code Splitting
+The project will run on http://localhost:3000/ by default.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Usage
 
-### Analyzing the Bundle Size
+Each challenge is listed in the src/challenges/ directory. You can navigate to a specific challenge through the UI or by routing (if implemented).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+You can also directly access each component by navigating to its path in the browser, e.g., http://localhost:3000/first-challenge.
 
-### Making a Progressive Web App
+### Challenges Implemented
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+    1.Results Summary Component (Challenge 1)
+         •	Status: 🚧 In Progress
+         •	[Link to challenge]
+         •	Description: A component that shows a user’s test score summary.
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+(More challenges will be added as I complete them!)
