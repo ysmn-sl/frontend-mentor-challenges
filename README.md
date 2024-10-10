@@ -53,7 +53,7 @@ To set up this project locally:
 2. Install dependencies:
 
    ```bash
-      npm install
+   npm install
    ```
 
 3. Run the project locally:
@@ -72,9 +72,15 @@ You can also directly access each component by navigating to its path in the bro
 
 ### Challenges Implemented
 
-    1.Results Summary Component (Challenge 1)
-         •	Status: 🚧 In Progress
-         •	[Link to challenge]
-         •	Description: A component that shows a user’s test score summary.
+1.  Results Summary Component (Challenge 1)
+    - Status: ✅ Completed
+    - [Link to challenge](https://www.frontendmentor.io/learning-paths/javascript-frameworks-and-libraries-JDWoqQjMyb/steps/6704d3eb5832c087f2c48604/challenge/start)
+    - [Live Demo](https://frontend-mentor-challenges-three-pi.vercel.app/challenges/first-challenge)
+    - Description: A component that shows a user’s test score summary.
+2.  Product List with Cart (Challenge 2)
+    - Status: 🚧 In Progress
+    - Link to challenge
+    - [Live Demo]
+    - Description: A dynamic product list with cart functionality, allowing users to add/remove items from the cart and update item quantities. The UI updates automatically based on user interactions.
 
 (More challenges will be added as I complete them!)
