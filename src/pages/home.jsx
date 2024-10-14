@@ -9,6 +9,13 @@ const challenges = [
     description: "Build a results summary component as per the design.",
     url: "/challenges/first-challenge",
   },
+
+  {
+    id: 2,
+    title: "Product list with cart",
+    description: "Build a results summary component as per the design.",
+    url: "/challenges/product-list-with-cart",
+  },
 ];
 
 const Home = () => {
