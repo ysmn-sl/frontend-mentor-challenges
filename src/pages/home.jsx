@@ -13,7 +13,8 @@ const challenges = [
   {
     id: 2,
     title: "Product list with cart",
-    description: "Build a results summary component as per the design.",
+    description:
+      "A dynamic product list with cart functionality, allowing users to add/remove items from the cart and update item quantities. The UI updates automatically based on user interactions..",
     url: "/challenges/product-list-with-cart",
   },
 ];

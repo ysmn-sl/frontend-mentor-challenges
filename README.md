@@ -74,13 +74,13 @@ You can also directly access each component by navigating to its path in the bro
 
 1.  Results Summary Component (Challenge 1)
     - Status: ✅ Completed
-    - [Link to challenge](https://www.frontendmentor.io/learning-paths/javascript-frameworks-and-libraries-JDWoqQjMyb/steps/6704d3eb5832c087f2c48604/challenge/start)
+    - [Link to challenge](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)
     - [Live Demo](https://frontend-mentor-challenges-three-pi.vercel.app/challenges/first-challenge)
     - Description: A component that shows a user’s test score summary.
 2.  Product List with Cart (Challenge 2)
-    - Status: 🚧 In Progress
-    - Link to challenge
-    - [Live Demo]
+    - Status: ✅ Completed
+    - [Link to challenge](https://www.frontendmentor.io/challenges/product-list-with-cart-5MmqLVAp_d)
+    - [Live Demo](https://frontend-mentor-challenges-git-dev-ysmns-projects.vercel.app/challenges/product-list-with-cart)
     - Description: A dynamic product list with cart functionality, allowing users to add/remove items from the cart and update item quantities. The UI updates automatically based on user interactions.
 
 (More challenges will be added as I complete them!)

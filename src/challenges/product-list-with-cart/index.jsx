@@ -50,7 +50,7 @@ const ProductListWithCartPage = () => {
 
   return (
     <>
-      <ChallengeLayout>
+      <ChallengeLayout title={"Product list with cart"}>
         <div className="flex flex-col md:flex-row justify-center items-start">
           <div className="flex-1 w-full md:w-2/3 md:pr-4 overflow-y-auto">
             <h1 className="text-3xl font-bold mb-3">Desserts</h1>
