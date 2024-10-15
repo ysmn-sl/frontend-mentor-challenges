@@ -28,7 +28,7 @@ const summaryData = [
   },
 ];
 
-const FirstChallenge = () => {
+const ResultSummaryPage = () => {
   return (
     <ChallengeLayout title="Results Summary Component">
       <div className="flex flex-col md:flex-row justify-center shadow-2xl md:m-10 rounded-2xl  ">
@@ -78,4 +78,4 @@ const FirstChallenge = () => {
   );
 };
 
-export default FirstChallenge;
+export default ResultSummaryPage;

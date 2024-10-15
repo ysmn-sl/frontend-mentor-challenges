@@ -73,14 +73,23 @@ You can also directly access each component by navigating to its path in the bro
 ### Challenges Implemented
 
 1.  Results Summary Component (Challenge 1)
+
     - Status: ✅ Completed
     - [Link to challenge](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)
     - [Live Demo](https://frontend-mentor-challenges-three-pi.vercel.app/challenges/first-challenge)
     - Description: A component that shows a user’s test score summary.
+
 2.  Product List with Cart (Challenge 2)
+
     - Status: ✅ Completed
     - [Link to challenge](https://www.frontendmentor.io/challenges/product-list-with-cart-5MmqLVAp_d)
     - [Live Demo](https://frontend-mentor-challenges-git-dev-ysmns-projects.vercel.app/challenges/product-list-with-cart)
     - Description: A dynamic product list with cart functionality, allowing users to add/remove items from the cart and update item quantities. The UI updates automatically based on user interactions.
+
+3.  Mortgage Repayment Calculator (Challenge 3)
+    - Status: 🚧 In Progress
+    - [Link to challenge](https://www.frontendmentor.io/challenges/mortgage-repayment-calculator-Galx1LXK73)
+    - [Live Demo]()
+    - Description: A mortgage repayment calculator where users can input loan details and see their monthly and total repayment amounts. The form includes validation and accessible keyboard navigation.
 
 (More challenges will be added as I complete them!)
