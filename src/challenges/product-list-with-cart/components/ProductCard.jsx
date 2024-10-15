@@ -33,7 +33,9 @@ const ProductCard = ({ product, cartItems, addToCart, updateCartQuantity }) => {
           <img
             src={product.image.desktop} // Fallback in case no media query matches
             alt={product.name}
-            className="w-full h-42 object-cover shadow-md rounded-md" // Tailwind classes
+            className={`w-full h-42 object-cover shadow-md rounded-md ${
+              cartItem ? "border border-orange-700" : ""
+            } `} // Tailwind classes
           />
         </picture>
 
@@ -67,7 +69,7 @@ const ProductCard = ({ product, cartItems, addToCart, updateCartQuantity }) => {
           >
             <img
               src="/assets/images/icon-add-to-cart.svg"
-              alt="add to cart"
+              alt=""
               className="mr-1"
             />
             Add to Cart
